@@ -1,6 +1,6 @@
 {
         "id": "bahmni.reports",
-        "description": "Bahmni Reports App",
+        "description": "Arpchan Reports App",
         "extensionPoints": [],
         "config": {
             "paperSize": "A3",

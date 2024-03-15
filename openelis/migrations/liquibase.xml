@@ -18,18 +18,18 @@
     <changeSet id="201510121504" author="Preethi,Sourav">
         <preConditions onFail="MARK_RAN">
             <sqlCheck expectedResult="0">
-                select count(*) from organization where name='Bahmni';
+                select count(*) from organization where name='Arpchan';
             </sqlCheck>
         </preConditions>
-        <comment>Add Bahmni organization</comment>
+        <comment>Add Arpchan organization</comment>
         <sql>
-            INSERT INTO organization(id, name)  VALUES ( nextVal( 'organization_seq' ) , 'Bahmni' );
+            INSERT INTO organization(id, name)  VALUES ( nextVal( 'organization_seq' ) , 'Arpchan' );
         </sql>
     </changeSet>
     <changeSet id="201603021148" author="Preethi,Vikash">
-        <comment>Update Active Flag for Bahmni Organization</comment>
+        <comment>Update Active Flag for Arpchan Organization</comment>
         <sql>
-            update organization set is_active='Y' where name='Bahmni';
+            update organization set is_active='Y' where name='Arpchan';
         </sql>
     </changeSet>
 </databaseChangeLog>
