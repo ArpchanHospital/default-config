@@ -39,7 +39,7 @@
             "conceptName": "Nutritional Values",
             "translationKey": "NUTRITIONAL_VALUES_LOCALE_KEY",
             "conceptNames": ["Height", "Weight", "BMI Data", "BMI Status Data"],
-            "required":true,
+            "required":false,
             "showLatest": true
         },
         "order": 1,
@@ -64,7 +64,7 @@
         "extensionParams": {
             "formName": "Nutritional Values",
             "conceptNames": ["Height", "Weight", "BMI Data", "BMI Status Data"],
-            "required":true,
+            "required":false,
             "showLatest": true
         },
         "order": 3,

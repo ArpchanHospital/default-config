@@ -1,11 +1,11 @@
 {
 	"homePage": {
 		"header_text": "<b>WELCOME TO<br />Arpchan EMR & HOSPITAL SERVICE",
-		"logo": "/bahmni/images/bahmniLogoFull.png",
+		"logo": "/bahmni/images/arpchanLogoFull.png",
 		"title_text": " "
 	},
 	"loginPage": {
-		"logo": "/bahmni/images/bahmniLogoFull.png",
+		"logo": "/bahmni/images/arpchanLogoFull.png",
 		"showHeaderText": true,
 		"showTitleText": false
 	},
