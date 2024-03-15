@@ -39,7 +39,7 @@
             "conceptName": "Nutritional Values",
             "translationKey": "NUTRITIONAL_VALUES_LOCALE_KEY",
             "conceptNames": ["HEIGHT", "WEIGHT", "BMI Data", "BMI Status Data"],
-            "required":true,
+            "required":false,
             "showLatest": true
         },
         "order": 1,
