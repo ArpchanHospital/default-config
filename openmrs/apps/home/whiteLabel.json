@@ -25,7 +25,7 @@
 			"name": "openelis",
 			"title": "Laboratory",
 			"logo": "/bahmni/images/lab.png",
-			"link": "/openelis"
+			"link": "/arpchan"
 		},
 		{
 			"enabled": true,
@@ -35,7 +35,7 @@
 			"linkPrefix": "erp"
 		},
 		{
-			"enabled": false,
+			"enabled": true,
 			"name": "crater",
 			"title": "Payment & Billing",
 			"logo": "/bahmni/images/bills.png",
