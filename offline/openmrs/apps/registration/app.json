@@ -108,8 +108,8 @@
                     "field": "address2"
                 },
                 "customAttributes": {
-                    "label": "रुग्णाचे नाव",
-                    "placeholder": "रुग्णाचे नाव",
+                    "label": "ರೋಗಿಯ ಹೆಸರು",
+                    "placeholder": "ರೋಗಿಯ ಹೆಸರು",
                     "fields": ["givenNameLocal", "middleNameLocal", "familyNameLocal"]
                 }
             }
