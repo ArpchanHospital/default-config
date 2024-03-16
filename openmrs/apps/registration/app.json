@@ -59,7 +59,7 @@
             },
 
             "autoCompleteFields":["familyName", "caste"],
-            "defaultIdentifierPrefix": "P",
+            "defaultIdentifierPrefix": "GAN",
             "defaultVisitType": "OPD",
             "searchByIdForwardUrl": "/patient/{{patientUuid}}",
             "showMiddleName": true,
