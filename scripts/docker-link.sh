@@ -1,6 +1,6 @@
 #!/bin/sh -x
 
-USER=bahmni
+USER=arpchan
 
 rm -rf /var/www/bahmni_config
 ln -s /bahmni-code/default-config /var/www/bahmni_config
