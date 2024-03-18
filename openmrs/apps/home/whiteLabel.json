@@ -17,8 +17,8 @@
 			"enabled": true,
 			"name": "clinicalService",
 			"title": "Clinical Service",
-			"logo": "/arpchan/images/app.png",
-			"link": "/arpchan/home"
+			"logo": "/bahmni/images/app.png",
+			"link": "/bahmni/home"
 		},
 		{
 			"enabled": true,
