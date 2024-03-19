@@ -123,6 +123,8 @@
                     "placeholder": "ರೋಗಿಯ ಹೆಸರು",
                     "fields": ["givenNameLocal", "middleNameLocal", "familyNameLocal"]
                 }
-            }
+            },
+        "enableWhatsAppButton": true,
+        "registrationMessage": "REGISTRATION_MESSAGE"
         }
 }
