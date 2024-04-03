@@ -1,4 +1,5 @@
-"reports": {
+{
+  "reports": {
   "id": "bahmni.reports",
   "extensionPointId": "org.bahmni.home.dashboard",
   "type": "link",
@@ -7,4 +8,5 @@
   "icon": "fa-user",
   "order": 8,
   "requiredPrivilege": "app:reports"
+  }
 }
