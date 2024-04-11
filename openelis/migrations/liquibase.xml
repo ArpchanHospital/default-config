@@ -37,7 +37,7 @@
         <comment>Update Hospital Name</comment>
         <sql>
             INSERT INTO site_information (id, name, lastupdated, description, value, encrypted, value_type)
-            VALUES (nextVal('site_information_seq'), 'SiteName', now(), 'Hospital name', 'Mangaluru Nursing Home', 'f', 'text');
+            VALUES (nextVal('site_information_seq'), 'SiteName', now(), 'Hospital name', 'Mangala Nursing Home', 'f', 'text');
         </sql>
     </changeSet>
 </databaseChangeLog>
