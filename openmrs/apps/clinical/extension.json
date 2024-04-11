@@ -235,4 +235,17 @@
     "order": 7,
     "requiredPrivilege": "app:clinical:bacteriologyTab"
   }
+  "bahmniBillingPatientsSearchActivePatients": {
+    "id": "bahmni.billing.patients.search.activePatients",
+    "extensionPointId": "org.bahmni.patient.search",
+    "type": "config",
+    "extensionParams": {
+      "searchHandler": "emrapi.sqlSearch.activePatients",
+      "display": "Active",
+      "forwardUrl": "#/default/patient/{{patientUuid}}/dashboard/treatment?tabConfigName=allMedicationTabConfig"
+    },
+    "label": "Active",
+    "order": 1,
+    "requiredPrivilege": "app:billing"
+  }
 }
