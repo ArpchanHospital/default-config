@@ -139,7 +139,7 @@
     "icon": "fa fa-flask",
     "order": 15,
     "requiredPrivilege": "app:lab-lite"
-  }
+  },
   "bahmniBilling": {
        "id": "bahmni.billing",
        "extensionPointId": "org.bahmni.home.dashboard",
@@ -149,5 +149,5 @@
        "icon": "fa-inr",
        "order": 11,
        "requiredPrivilege": "app:billing"
-   },
+   }
 }
