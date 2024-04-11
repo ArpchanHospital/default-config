@@ -247,7 +247,7 @@
     "label": "Active",
     "order": 1,
     "requiredPrivilege": "app:billing"
-  }
+  },
   "bahmniClinicalTreatmentLinks": {
         "id": "bahmni.clinical.treatment.links",
         "extensionPointId": "org.bahmni.clinical.treatment.links",
