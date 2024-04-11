@@ -37,7 +37,7 @@
     "label": "InPatient",
     "url": "../bedmanagement/#/home",
     "icon": "fa-bed",
-    "order": 7,
+    "order": 4,
     "requiredPrivilege": "app:adt"
   },
   "radiologyDocumentUpload": {
@@ -140,4 +140,14 @@
     "order": 15,
     "requiredPrivilege": "app:lab-lite"
   }
+  "bahmniBilling": {
+       "id": "bahmni.billing",
+       "extensionPointId": "org.bahmni.home.dashboard",
+       "type": "link",
+       "label": "Prescription",
+       "url": "../clinical/#/default/patient/search",
+       "icon": "fa-inr",
+       "order": 11,
+       "requiredPrivilege": "app:billing"
+   },
 }
