@@ -49,7 +49,7 @@
 			"link": "/bahmni-connect"
 		},
 		{
-			"enabled": true,
+			"enabled": false,
 			"name": "dcm",
 			"title": "Radiology",
 			"logo": "/arpchan/images/pac.png",
@@ -61,6 +61,13 @@
 			"title": "Analytics",
 			"logo": "/arpchan/images/analytics.png",
 			"link": "/metabase"
+		},
+		{
+			"enabled": true,
+			"name": "insurance",
+			"title": "Insurance",
+			"logo": "/arpchan/images/bills.png",
+			"link": "/insurance"
 		}
 	]
 }
